@@ -1,5 +1,6 @@
 
-body { background-color : #9580ab ; 
+body { font-family : "Arial, Helvetica", sans-serif;
+      background-color :#fae8ff ; 
      }
 
 
@@ -11,3 +12,4 @@ p {font-family :  "Times New Roman", Times, serif;
 background-color: #9580ab;
 }
 
+h2 { color : #b899bf ; }
